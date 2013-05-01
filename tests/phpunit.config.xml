@@ -1,0 +1,9 @@
+<phpunit
+    bootstrap="./phpunit.bootstrap.php"
+>
+    <testsuites>
+        <testsuite name="StackIt">
+            <directory>./Stackit</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
